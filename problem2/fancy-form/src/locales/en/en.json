@@ -1,0 +1,15 @@
+{
+  "title": "CURRENCY EXCHANGE",
+  "subtitle_1": "Exchange your currency",
+  "subtitle_2": "Fast, Secure, Decentralized",
+  "amount": "Amount",
+  "placeholder_enter": "Amount to exchange",
+  "from": "From",
+  "to": "To",
+  "conversion_rate": "Conversion Rate",
+  "your_result": "Your Result",
+  "swap": "SWAP",
+  "please_enter": "Please enter an amount",
+  "loading": "Loading...",
+  "modal_confirmation_msg": "You will receive this amount"
+}
